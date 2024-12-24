@@ -1,6 +1,6 @@
            HI 👋, I'm Waliyullah Osman
 
-        Fullstack developer(Beginner)
+        Fullstack developer
 
         Leveraging my barground in information technology and passion for App development and Devops
 
