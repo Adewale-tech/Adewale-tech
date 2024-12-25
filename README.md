@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning jvascript and moving significantly into other essential course
 - 💞️ I’m looking to collaborate with dvelopers to enhance my learning
 - 📫 How to reach me @waliyullahadewale30@gamil.com
-- 😄 Pronouns: Techiee
+- 😄 Pronouns: He
 - ⚡ Fun fact:  "I'M THE CREEPER, CATCH ME IF YOU CAN!"
 
 <!---
