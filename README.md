@@ -10,7 +10,7 @@
 
 
 
-- 👋 Hi, I’m @Adewale-tech
+- 👋 Hi, I’m @Adewale
 - 👀 I’m interested in fullstack developing also Devops
 - 🌱 I’m currently learning jvascript and moving significantly into other essential course
 - 💞️ I’m looking to collaborate with dvelopers to enhance my learning
