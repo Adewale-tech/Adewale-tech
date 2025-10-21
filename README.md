@@ -1,6 +1,6 @@
            HI 👋, I'm Waliyullah Osman
 
-        Fullstack developer
+        Backend developer
 
         Leveraging my barground in information technology and passion for App development and Devops
 
@@ -11,7 +11,7 @@
 
 
 - 👋 Hi, I’m @Adewale
-- 👀 I’m interested in fullstack developing also Devops
+- 👀 I’m interested in backend developing also Devops
 - 🌱 I’m currently learning javascript and moving significantly into other essential course
 - 💞️ I’m looking to collaborate with developers to enhance my learning
 - 📫 How to reach me @waliyullahadewale30@gamil.com
